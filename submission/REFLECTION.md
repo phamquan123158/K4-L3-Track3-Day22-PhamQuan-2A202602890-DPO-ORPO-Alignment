@@ -1,6 +1,6 @@
 # Bài phản tư — Lab 22
 
-**Tên:** Nguyễn Văn A  
+**Tên:** Phạm Quân  
 **Khoá:** A20-K4  
 **Tier đã chạy:** T4  
 **Ngày:** 2026-10-09
